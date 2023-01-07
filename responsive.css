@@ -1,0 +1,65 @@
+
+@media (max-width: 1024px){
+	.email input{
+		width: 510px;
+	}
+	.send input{
+		width: 110px;
+	}
+	.option-1, .option-2, .option-3, .option-4{
+		margin: 0;
+		width: 380px;
+		height: 120px;
+	}
+	.small-section-2{
+		padding-top: 40px;
+	}
+	.option-1, .option-3{
+		padding-left: 170px;
+	}
+	.option-2, .option-4{
+		padding-right: 170px;
+	}
+	.phone-icon{
+		display: block;
+		width: 220px;
+		height: 400px
+	}
+
+}
+
+@media (max-width: 768px){
+	.phone-icon{
+		display: none;
+	}
+	.email input{
+		width: 510px;
+	}
+	.send input{
+		width: 110px;
+	}
+	.option-1, .option-2, .option-3, .option-4{
+		margin: 0;
+		width: 350px;
+		height: 120px;
+	}
+}
+
+@media (max-width: 425px){
+	.email input{
+		width: 300px;
+	}
+	.send input{
+		width: 80px;
+	}
+	.option-1, .option-2, .option-3, .option-4{
+		margin: 0;
+	}
+	.option-1, .option-3{
+		padding-right: 0px;
+	}
+	.option-2, .option-4{
+		padding-top: 70px;
+		padding-left: 40px;
+	}
+}

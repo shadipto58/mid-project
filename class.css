@@ -1,0 +1,257 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&family=Poppins:wght@400;600&display=swap');
+
+body{
+	background: #fff;
+	font-family: 'PT Sans', sans-serif;
+}
+
+img{
+	max-width: 100%;
+	height: auto;
+	display: block;
+}
+/*header start*/
+.tinyone-header{
+	background: #fbdb00;
+	padding-bottom: 200px;
+	padding-top: 74px;
+}
+.menu-bar{
+	display: flex;
+	align-items: center;
+	font-size: 22px;
+}
+.logo{
+	display: flex;
+	align-items: center;
+}
+.logo-text h2{
+	color: #010101;
+	font-size: 30px;
+	font-weight: 700;
+	margin-left: 10px;
+}
+.social-icon{
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+	font-size: 22px; 
+}
+.social-icon i{
+	margin-left: 20px;
+}
+
+/*first-section*/
+.first-section{
+	background: #fbdb00;
+	padding-top: px;
+}
+.tinyone-title{
+	text-align: center;
+}
+.tinyone-title h2{
+	font-weight: 700;
+	font-size: 48px;
+	color: #010101;
+	padding-bottom: 24px;
+}
+.tinyone-title p{
+	font-weight: 400;
+	font-size: 20px;
+	color: #313841;
+	padding-bottom: 33px;
+}
+.apple{
+	display: flex;
+	justify-content: center;
+	padding-bottom: 148px;
+}
+.carousel-indicators button{
+	width: 15px !important;
+	height: 15px !important;
+	border-radius: 50%;
+}
+
+/*features section*/
+.features{
+	background: #fff ;
+	padding-top: 116px;
+}
+.tinyone-title-2{
+	text-align: center;
+}
+.tinyone-title-2 h2{
+	font-weight: 700;
+	font-size: 32px;
+	color: #010101;
+	padding-bottom: 19px;
+}
+.tinyone-title-2 p{
+	font-weight: 400;
+	font-size: 20px;
+	color: #313841;
+}
+.small-section-1{
+	display: flex;
+	justify-content: space-between;
+	flex-flow: wrap;
+	padding-top: 126px;
+	padding-bottom: 86px;
+}
+.option-1{
+	width: 210px;
+	height: 120px;
+	margin-left: 245px;
+	box-sizing: border-box;
+}
+.option-1 h2{
+	white-space: nowrap;
+	font-weight: 400;
+	font-size: 22px;
+	color: #010101;
+}
+.option-1 p{
+	font-weight: 400;
+	font-size: 16px;
+	color: #898989;
+}
+.option-2{
+	width: 210px;
+	height: 120px;
+	margin-right: 245px;
+}
+.option-2 h2{
+	white-space: nowrap;
+	font-weight: 400;
+	font-size: 22px;
+	color: #010101;
+}
+.option-2 p{
+	font-weight: 400;
+	font-size: 16px;
+	color: #898989;
+}
+.small-section-2{
+	display: flex;
+	justify-content: space-between;
+	flex-flow: wrap;
+	padding-bottom: 192px;
+}
+.option-3{
+	width: 210px;
+	height: 120px;
+	margin-left: 245px;
+}
+.option-3 h2{
+	white-space: nowrap;
+	font-weight: 400;
+	font-size: 22px;
+	color: #010101;
+}
+.option-3 p{
+	font-weight: 400;
+	font-size: 16px;
+	color: #898989;
+}
+.option-4{
+	width: 210px;
+	height: 120px;
+	margin-right: 245px;
+}
+.option-4 h2{
+	white-space: nowrap;
+	font-weight: 400;
+	font-size: 22px;
+	color: #010101;
+}
+.option-4 p{
+	font-weight: 400;
+	font-size: 16px;
+	color: #898989;
+}
+.phone-icon{
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%,-50%);
+}
+.small-box{
+	position: relative;
+}
+
+/*last section*/
+.last-section{
+	background: #010101;
+	padding-top: 94px;
+}
+.tinyone-title-3{
+	text-align: center;	
+}
+.tinyone-title-3 h2{
+	font-weight: 700;
+	font-size: 32px;
+	color: #fbdb00;
+	padding-bottom: 17px;
+}
+.tinyone-title-3 p{
+	font-weight: 400;
+	font-size: 20px;
+	color: #898989;
+	padding-bottom: 40px;
+}
+
+/*form*/
+.form{
+	display: flex;
+	justify-content: center;
+	padding-bottom: 100px;
+}
+.email input{
+	width: 581px;
+	height: 53px;
+	margin-right: 20px;
+	border-radius: 7px;
+	padding: 0 24px;
+}
+.send input{
+	width: 127px;
+	height: 53px;
+	font-weight: 700;
+	background: #fbdb00;
+	border: 1px solid #000;
+	border-radius: 7px; 
+}
+
+/*contact*/
+.contact{
+	display: flex;
+	font-weight: 400;
+	font-size: 16px;
+	color: #fff;
+	justify-content: space-between;
+	padding-bottom: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
